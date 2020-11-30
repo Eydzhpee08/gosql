@@ -1,0 +1,14 @@
+[33mcommit fc35140155bdc9dc997ff90dd6a595679ed8f72b[m
+Author: Eydzhpee08 <Eydzhpee08@go.alif.academy>
+Date:   Tue Dec 1 01:40:41 2020 +0500
+
+    sql
+
+[1mdiff --git a/cmd/types/reauets.sql b/types/reauets.sql[m
+[1msimilarity index 100%[m
+[1mrename from cmd/types/reauets.sql[m
+[1mrename to types/reauets.sql[m
+[1mdiff --git a/cmd/types/types.go b/types/types.go[m
+[1msimilarity index 100%[m
+[1mrename from cmd/types/types.go[m
+[1mrename to types/types.go[m
